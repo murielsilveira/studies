@@ -8,6 +8,8 @@
 ## iOS
 
 - https://github.com/futurice/ios-good-practices
+- https://developer.apple.com/videos/play/wwdc2015-408/
+- https://developer.apple.com/videos/play/wwdc2013-405/
 
 ## Web
 
