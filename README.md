@@ -1,5 +1,9 @@
 # studies
 
+## Go
+
+- https://blog.codeship.com/visualizing-concurrency-go/
+
 ## Android
 
 - https://www.youtube.com/watch?v=cCuhUrmVpSo
