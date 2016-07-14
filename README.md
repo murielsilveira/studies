@@ -1,5 +1,9 @@
 # studies
 
+## Clojure
+
+- http://www.braveclojure.com/
+
 ## Go
 
 - https://blog.codeship.com/visualizing-concurrency-go/
