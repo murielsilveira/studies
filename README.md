@@ -4,6 +4,10 @@
 
 - http://www.braveclojure.com/
 
+## Apache Thrift
+
+- https://thrift.apache.org/
+
 ## Go
 
 - https://blog.codeship.com/visualizing-concurrency-go/
