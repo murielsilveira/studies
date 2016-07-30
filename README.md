@@ -11,6 +11,8 @@
 ## Go
 
 - https://blog.codeship.com/visualizing-concurrency-go/
+- http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/
+- https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html
 
 ## Android
 
